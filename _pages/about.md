@@ -17,7 +17,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 
-I'm Omar, a MEng student majoring in $\mathsbb{A}$ pplied $\mathbb{M}$ athematics and `Computer Science` at [National Institute of Applied Sciences](https://www.insa-rouen.fr/) in France.
+I'm Omar, a MEng student majoring in $\mathbb{A}\text{pplied}$ $\mathbb{M}\text{athematics}$ and `Computer Science` at [National Institute of Applied Sciences](https://www.insa-rouen.fr/) in France.
 
 I'm passionate about Optimization, Statistics, Algorithms and all the theory behind AI and also about its applications from theorems provers to LLMs.
 

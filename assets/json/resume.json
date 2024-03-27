@@ -1,6 +1,6 @@
 {
   "basics": {
-    "name": "Albert Einstein",
+    "name": "Omar Choukrani",
     "label": "Scientist",
     "image": "",
     "email": "albert@einstein.de",
@@ -17,8 +17,8 @@
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "choukrani",
+        "url": "https://twitter.com/choukr4ni"
       }
     ]
   },

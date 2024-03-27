@@ -25,14 +25,13 @@
   "education": [
     {
       "institution": "MEng, Applied Mathematics and Informatics",
-      "location": "",
       "url": "https://www.insa-rouen.fr/",
       "area": "",
       "studyType": "INSA Rouen Normandie",
       "startDate": "2022",
       "endDate": "Now",
       "score": "10",
-      "courses": [""]
+      "courses": ["Machine Learning - Optimization - Statistics"]
     }
   ],
   "volunteer": [

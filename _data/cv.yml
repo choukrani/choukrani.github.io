@@ -13,18 +13,16 @@
       institution: INSA Rouen Normandie, France
       year: 2022 - NOW
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Mathematical Modeling and Numerical Simulation
+        - Stochastic Modeling and Operations Research
+        - Computer Modeling and Programming Paradigms
+         
+    - title: CPGE, Mathematics and Physics 
+      institution: 
+      year: 2020 - 2022
       description:
-        - Description 1.
-        - Description 2.
+        - MP* - Lycée Moulay Idriss
+        - MPSI - Lyc´ee Omar Ibn Abdelaziz
 
 - title: Experience
   type: time_table

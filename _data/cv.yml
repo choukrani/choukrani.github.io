@@ -3,8 +3,6 @@
   contents:
     - name: Full Name
       value: Omar CHOUKRANI
-    - name: Email
-      value: omar choukrani
 
 - title: Education
   type: time_table

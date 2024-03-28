@@ -22,7 +22,7 @@
       year: 2020 - 2022
       description:
         - MP* - Lycée Moulay Idriss
-        - MPSI - Lyc´ee Omar Ibn Abdelaziz
+        - MPSI - Lycée Omar Ibn Abdelaziz
 
 - title: Experience
   type: time_table
@@ -33,14 +33,15 @@
             
     - title: Mathematics Voluntary Tutor
       institution: Collège Paul Eluard 
-      year: 01/2023 - 04/2023
+      year: 01/2023 
+      - 04/2023
 
 
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://atlasia.ma/">AtlasIA</a>
+    - title: <a href="https://atlasia.ma/">AtlasIA</a> ◮◮◮
       year: 2023 - NOW
-      description: Building a new generation of Moroccan AI Models ◮◮◮
+      description: Building a new generation of Moroccan AI Models
       
 

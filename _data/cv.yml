@@ -4,14 +4,14 @@
     - name: Full Name
       value: Omar CHOUKRANI
     - name: Email
-      value: Omar CHOUKRANI
+      value: omar.choukrani[at]insa-rouen.fr
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Master of Engineering in Applied Mathematics
+      institution: INSA Rouen Normandie, France
+      year: 2022 - NOW
       description:
         - Description 1.
         - Description 2.

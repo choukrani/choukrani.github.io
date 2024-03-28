@@ -4,7 +4,7 @@
     - name: Full Name
       value: Omar CHOUKRANI
     - name: Email
-      value: omar.choukrani[at]insa-rouen.fr
+      value: omar.choukrani@insa-rouen.fr
 
 - title: Education
   type: time_table
@@ -29,11 +29,11 @@
   contents:
     - title: Tutor – Mentor 
       institution: Académie de Normandie
-      year: Nov 2022 - May 2023
+      year: 11/2022 - 05/2023
             
     - title: Mathematics Voluntary Tutor
       institution: Collège Paul Eluard 
-      year: Jan 2023 - Apr 2023
+      year: 01/2023 - 04/2023
 
 
 - title: Open Source Projects
@@ -41,22 +41,6 @@
   contents:
     - title: <a href="https://atlasia.ma/">AtlasIA</a>
       year: 2023 - NOW
-      description: Building the next generation of Moroccan AI Models 🚀
+      description: Building a new generation of Moroccan AI Models ◮◮◮
       
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.

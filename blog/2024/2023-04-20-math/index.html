@@ -1,1 +1,32 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"> <html><body> <p>In this blog post, we’re talking about a very interesting math problem: the Helmholtz equation and how we can “solve” it using something called quadrature formulas.</p> <p>Imagine we’re studying how waves move in a certain space, like a half-plane with the “same” properties everywhere (homogeneous half-plane). And we’re curious about interference – when waves meet and do interesting things.</p> <p>Our goal will be then to compute the solution to the Helmholtz equation:</p> \[-\Delta u - (\omega^2 + i\epsilon)u = 0 \text{ in } \mathbb{R}^+ \times \mathbb{R}\] \[u = \delta(x, y - y_0) \text{ on } \{0\} \times \mathbb{R}\] <p>Here, $\delta$ represents the Dirac delta function at $(0, 0)$, $\omega$ signifies the angular frequency of the wave, and $\epsilon \geq 0$ (typically small) symbolizes the attenuation of the medium. The Dirac function embodies a point source positioned at $y_0$.</p> <p>It appears that leveraging the Fourier transform, we can demonstrate that:</p> \[u_0(x, y) = \frac{1}{2\pi} \int_{-\infty}^{\infty} e^{-i\xi(y-y_0)} e^{i\sqrt{\omega^2 + i\epsilon - \xi^2 }} d\xi~,~~ \forall x &gt; 0,~ y \in \mathbb{R}\] <p>The trick here is that we are going to be using quadrature formulas to help us out. These formulas make it relatively easier to deal with tricky integrals but can sometimes be computationally expensive.</p> <figure> <picture> <source class="responsive-img-srcset" srcset="/assets/img/1-480.webp 480w,/assets/img/1-800.webp 800w,/assets/img/1-1400.webp 1400w," sizes="95vw" type="image/webp"></source> <img src="/assets/img/1.jpg" class="img-fluid rounded z-depth-1" width="100%" height="auto" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"> </picture> </figure> </body></html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"> <html><body> <p>In this blog post, we’re talking about a very interesting math problem: the Helmholtz equation and how we can “solve” it using something called quadrature formulas.</p> <p>Imagine we’re studying how waves move in a certain space, like a half-plane with the “same” properties everywhere (homogeneous half-plane). And we’re curious about interference – when waves meet and do interesting things.</p> <p>Our goal will be then to compute the solution to the Helmholtz equation:</p> \[-\Delta u - (\omega^2 + i\epsilon)u = 0 \text{ in } \mathbb{R}^+ \times \mathbb{R}\] \[u = \delta(x, y - y_0) \text{ on } \{0\} \times \mathbb{R}\] <p>Here, $\delta$ represents the Dirac delta function at $(0, 0)$, $\omega$ signifies the angular frequency of the wave, and $\epsilon \geq 0$ (typically small) symbolizes the attenuation of the medium. The Dirac function embodies a point source positioned at $y_0$.</p> <p>It appears that leveraging the Fourier transform, we can demonstrate that:</p> \[u_0(x, y) = \frac{1}{2\pi} \int_{-\infty}^{\infty} e^{-i\xi(y-y_0)} e^{i\sqrt{\omega^2 + i\epsilon - \xi^2 }} d\xi~,~~ \forall x &gt; 0,~ y \in \mathbb{R}\] <p>The trick here is that we are going to be using quadrature formulas to help us out. These formulas make it relatively easier to deal with tricky integrals but can sometimes be computationally expensive.</p> <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;!--
+  See https://www.debugbear.com/blog/responsive-images#w-descriptors-and-the-sizes-attribute and
+  https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images for info on defining 'sizes' for responsive images
+--&gt;
+
+  &lt;source
+    class="responsive-img-srcset"
+    srcset="/assets/img/1-480.webp 480w,/assets/img/1-800.webp 800w,/assets/img/1-1400.webp 1400w,"
+    
+      sizes="95vw"
+    
+    type="image/webp"
+  &gt;
+
+&lt;img
+  src="/assets/img/1.jpg"
+  
+    class="img-fluid rounded z-depth-1"
+  
+  
+    width="100%"
+  
+  
+    height="auto"
+  
+  
+  
+  
+  
+  onerror="this.onerror=null; $('.responsive-img-srcset').remove();"
+&gt;
+</code></pre></div></div> <p>&lt;/picture&gt;</p> <p>&lt;/figure&gt; –&gt;</p> </body></html>

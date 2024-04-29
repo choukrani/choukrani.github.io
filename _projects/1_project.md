@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <font size="4"> Circle Packing </font>
+title: <span style="text-transform: uppercase;">C</span>ircle <span style="text-transform: uppercase;">P</span>acking # <font size="4"> Circle Packing </font>
 description: The Mathematics of Social Distancing
 img: assets/img/1.jpg
 redirect: https://choukrani.github.io/assets/pdf/cp.pdf

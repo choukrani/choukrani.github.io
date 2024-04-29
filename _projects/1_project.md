@@ -1,7 +1,7 @@
 ---
 layout: page
-title: The Mathematics of Social Distancing
-description: 
+title: <font size="2"> The Mathematics of Social Distancing </font>
+description: #
 img: assets/img/1.jpg
 redirect: https://choukrani.github.io/assets/pdf/cp.pdf
 importance: 1

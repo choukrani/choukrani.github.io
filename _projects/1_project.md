@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Circle Packing
+title: `C`ircle `P`acking
 description: The Mathematics of Social Distancing
 img: assets/img/1.jpg
 redirect: https://choukrani.github.io/assets/pdf/cp.pdf

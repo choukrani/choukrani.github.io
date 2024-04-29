@@ -5,7 +5,7 @@ description:
 img: assets/img/1.jpg
 redirect: https://choukrani.github.io/assets/pdf/cp.pdf
 importance: 1
-category: # work
+category: Research
 ---
 
 Every project has a beautiful feature showcase page.

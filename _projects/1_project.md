@@ -5,7 +5,7 @@ description: The Mathematics <br> of Social Distancing
 img: assets/img/1.jpg
 redirect: https://choukrani.github.io/assets/pdf/cp.pdf
 importance: 1
-category: Research
+category: Projects
 ---
 
 Every project has a beautiful feature showcase page.

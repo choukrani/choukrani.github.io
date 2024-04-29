@@ -1,7 +1,7 @@
 ---
 layout: page
 title: <font size="6"> 𝐒𝐈𝐒 𝐌𝐨𝐝𝐞𝐥 </font>
-description: #
+description: Pyhton Simulation of a Simple Compartmental Epidemiological Model 
 img: assets/img/SIS.png
 redirect: https://github.com/choukrani/Euler-methods-SIS-model-simulation
 importance: 2

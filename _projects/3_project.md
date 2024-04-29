@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 3
+title: The Mathematics of Social Distancing
+description: 
+img: assets/img/1.jpg
+redirect: https://choukrani.github.io/assets/pdf/cp.pdf
+importance: 1
 category: # work
 ---
 

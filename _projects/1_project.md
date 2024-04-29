@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <font size="6"> U+0043ircle Packing </font>
+title: <font size="6"> 𝐀 Circle Packing </font>
 description: The Mathematics of Social Distancing
 img: assets/img/1.jpg
 redirect: https://choukrani.github.io/assets/pdf/cp.pdf
